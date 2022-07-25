@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 #clientscript
 
 echo Write ip-adress to the nc-server:
