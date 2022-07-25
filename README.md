@@ -1,1 +1,7 @@
-Run this clientscript together with ncat and the "--broker" flag. Then just start the clientscript from the nodes that is gonna participate in the conversation and communicate!  
+ncat needs to be installed on the server node and it needs to support the "--broker" flag.
+
+Run ncat with the "--broker" flag on the server node, specify port number. 
+
+Then just start the clientscript from the client nodes and communicate  
+
+
